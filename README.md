@@ -53,3 +53,5 @@ Version Control and Submission:
 
 Initialize a Git repository and commit all project setup files.
 Push your code to a GitHub repository named alxtravelapp with the specified structure.
+
+pip install django djangorestframework django-cors-headers celery drf-yasg django-environ mysqlclient
